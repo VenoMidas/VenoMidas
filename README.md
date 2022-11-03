@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@venomidas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@venomidas" height="30" width="40" /></a>
+<a href="https://codepen.io/venomidas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@venomidas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mark-schumacher-724648152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mark-schumacher-724648152" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20402306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20402306" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/schuma1022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="schuma1022" height="30" width="40" /></a>
