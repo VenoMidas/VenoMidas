@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venomidas&label=Profile%20views&color=0e75b6&style=flat" alt="venomidas" /> </p>
 
+[![MasterHead](./banner.png)](https://github.com/VenoMidas)
+
 <h1 align="center">👋  I'm Mark Schumacher</h1>
 <h3 align="center">A passionate full stack developer from the Twin Cities!</h3>
 
