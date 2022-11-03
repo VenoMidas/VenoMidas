@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mark Schumacher</h1>
-<h3 align="center">A passionate full stack developer from the Twin Cities!</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venomidas&label=Profile%20views&color=0e75b6&style=flat" alt="venomidas" /> </p>
+
+<h1 align="center">👋  I'm Mark Schumacher</h1>
+<h3 align="center">A passionate full stack developer from the Twin Cities!</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venomidas" alt="venomidas" /></a> </p>
 
