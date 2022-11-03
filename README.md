@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venomidas&label=Profile%20views&color=0e75b6&style=flat" alt="venomidas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venomidas" alt="venomidas" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venomidas" alt="venomidas" /></a> </p>
 
 - 🔭 I’m currently working on [TechMate](https://github.com/VenoMidas/TechMate)
 
